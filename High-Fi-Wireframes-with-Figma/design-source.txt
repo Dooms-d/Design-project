@@ -1,0 +1,24 @@
+ENSE 271 - Lab 3: High-Fi Wireframes with Figma
+================================================
+
+Design Source URL
+-----------------
+https://dribbble.com/shots/25381404-Banking-Mobile-App
+
+Designer Information
+--------------------
+Designer: Ronas IT | UI/UX Team
+Website: https://ronasit.com
+Email: hello@ronasit.com
+
+Design Details
+--------------
+Title: Banking Mobile App
+Type: Mobile Application UI Design
+Platform: iOS
+Screens: Home, Add Money, Profile
+
+Notes
+-----
+This design was selected for the ENSE 271 Lab 3 assignment on high-fidelity wireframing.
+The recreation is for educational purposes only. All original design credit goes to Ronas IT | UI/UX Team.
