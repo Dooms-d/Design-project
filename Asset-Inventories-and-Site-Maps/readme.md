@@ -30,7 +30,7 @@ This lab focuses on documenting the components of a web application using Inform
 | `readme.md` | This documentation file |
 | `asset-inventory.xlsx` | Excel spreadsheet with Page Overview and Asset Inventory |
 | `asset-inventory.md` | Markdown version of the asset inventory for easy viewing |
-| `Screenshot 2025-09-26 234249.png` | Sitemap diagram created in Figma |
+| `sitemap.png` | Sitemap diagram created in Figma |
 
 ---
 
@@ -84,7 +84,7 @@ The Soilboy website consists of 6 main pages:
 
 ## Sitemap
 
-![Soilboy Sitemap](Screenshot%202025-09-26%20234249.png)
+![Soilboy Sitemap](sitemap.png)
 
 ---
 
