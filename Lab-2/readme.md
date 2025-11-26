@@ -1,4 +1,4 @@
-# Lab 2: Asset Inventories and Site-Maps
+#Asset Inventories and Site-Maps
 
 **Course:** ENSE 271 - People-Centred Design  
 **Lab Instructor:** Adam Tilson  
