@@ -27,3 +27,40 @@ Results in the Story Map:
 Extra Feature Implemented:
 I used color-coded cards as a visual aid to improve readability and task segmentation. Specifically, I assigned the orange color to all driver-related tasks and orders to immediately signal their role and priority. Along with color coding, I introduced personas implicitly by differentiating between customer and driver actions, enhancing the map’s clarity and user-role focus. This feature enhances team collaboration by providing quick visual cues, which is vital for larger projects involving multiple stakeholders.
 
+
+---
+
+## Lab 3: High-Fi Wireframes with Figma
+
+This is Assignment-3 for the Lab which focuses on "High-Fidelity Wireframing" using Figma.
+
+### Design Recreation
+
+**Original Design:** Banking Mobile App  
+**Designer:** Ronas IT | UI/UX Team  
+**Source:** [Dribbble](https://dribbble.com/shots/25381404-Banking-Mobile-App)
+
+### Project Objectives
+
+- Get familiar with the UI and design tools available in Figma
+- Investigate how to create high fidelity wireframes
+- Recreate a professional UI design with at least 10 unique components
+
+### Key Components Recreated
+
+- Status Bar, Navigation Header, Balance Card
+- Credit/Debit Card components with gradient design
+- Transaction list items
+- Profile Avatar with masked images
+- Bottom Tab Bar navigation
+- Section Headers and List Items
+
+### Figma Techniques Applied
+
+- Frames & Auto Layout
+- Boolean Operations
+- Masked Images
+- Gradients
+- Components & Groups
+
+[View Lab 3 Documentation](./High-Fi-Wireframes-with-Figma/README.md)
